@@ -1,0 +1,8 @@
+{
+	"libraries": [
+		"./src/slices"
+	],
+	"adapter": "@slicemachine/adapter-next",
+	"repositoryName": "kave",
+	"localSliceSimulatorURL": "http://localhost:3000/slice-simulator"
+}
